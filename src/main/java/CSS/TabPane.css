@@ -1,0 +1,12 @@
+.tab-pane
+{
+    -fx-alignment:  center;
+}
+.tab .tab-label
+{
+    -fx-alignment: CENTER;
+    -fx-pref-width: 200;
+    -fx-pref-height: 40;
+    -fx-font-size: 15;
+    -fx-font-family: "Impact";
+}
